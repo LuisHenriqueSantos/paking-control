@@ -1,0 +1,5 @@
+com\api\pakingcontrol\models\ParkingSpotModel.class
+com\api\pakingcontrol\services\ParkingSpotService.class
+com\api\pakingcontrol\controllers\ParkingSportController.class
+com\api\pakingcontrol\PakingControlApplicationTests.class
+com\api\pakingcontrol\repositories\ParkingSpotRepository.class
